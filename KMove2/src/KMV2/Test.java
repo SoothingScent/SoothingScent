@@ -3,7 +3,7 @@ package KMV2;
 public class Test {
 	public static void main(String[] args) {
 		int a[] = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
-		ì •ë ¬ test = new ì •ë ¬();
+		Á¤·Ä test = new Á¤·Ä();
 		test.BubbleSort(a);
 		test.prn(a);
 		System.out.println();

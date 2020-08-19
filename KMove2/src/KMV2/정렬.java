@@ -1,8 +1,8 @@
 package KMV2;
 
-//SelectSort() 오름차순정렬
-//SelectSort_R() 내림차순정렬
-//BubbleSort() 버블정렬
+//SelectSort() 오름차순
+//SelectSort_R() 내림차순
+//BubbleSort() 오름차순
 //boolean BinarySearch(int a[], int key) return -> true||false
 public class 정렬 {
 	public void swap(int x, int y) {
